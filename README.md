@@ -40,6 +40,8 @@ scrib: scribble
 l: input windows size is (l*2+1)^2
 nn: the number of neighbors. It can be a vector of two elements. For example [10;2] means 10 neighbors with default(level) spatial coherence and 2 neighbors with weak spatial coherence.
 
+Note: Scribble inputs in RGB space usually perform better than HSV space.
+
 ### More Information
 
 For more information, please go to our project site for the detailed paper.

@@ -46,7 +46,7 @@ For more information, please go to our project site for the detailed paper.
 
 ### Disclaimer
 
-The code is free for academic/research purpose. Use at your own risk and we are not responsible for any loss resulting from this code. 
+The code is free for academic/research purpose. Use at your own risk and we are not responsible for any loss resulting from this code. Feel free to submit pull request for bug fixes.
 
 ### Contact 
 [Qifeng Chen](http://web.stanford.edu/~cqf/) (cqf@stanford.edu) and [Dingzeyu Li](http://dingzeyu.li/) (dli@cs.columbia.edu)
